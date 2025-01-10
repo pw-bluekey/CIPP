@@ -1,4 +1,4 @@
-retname: Azure Static Web Apps CI/CD
+name: Azure Static Web Apps CI/CD
 
 on:
   push:
